@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    /* font-family: 'Lato', sans-serif; */
+    background: url('../media/intro-section-background.svg') no-repeat center;
+    background-size: cover;
+}
+
+h1 { font-size: 2.5rem;}
+
+#intro-section {
+    width: inherit;
+    color: white;
+}
+
+#typing-text {
+    white-space: pre-wrap;
+}
+
+.circular-img {
+    border-radius: 50%;
+}
