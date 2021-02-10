@@ -14,10 +14,10 @@ const setIntroSectionSize = () => {
 
 /* Typing text effect */
 const textList = [
-    'am Trung Nguyen.', 
-    'am a software engineer.', 
-    'love algorithms.', 
-    'enjoy coding.'
+    'a sophomore at CWRU.', 
+    'a software engineer.', 
+    'a competitive programmer.', 
+    'an AI&algo learner.'
 ];
 const curState = {
     textId: 0,
