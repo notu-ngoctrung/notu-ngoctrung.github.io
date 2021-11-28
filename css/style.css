@@ -23,6 +23,10 @@ body {
     background-position-x: center;
 }
 
+.logo-area {
+    margin-bottom: 4rem;
+}
+
 .content-block {
     border-left: 0.15rem #00A499 solid;
     position: relative;
